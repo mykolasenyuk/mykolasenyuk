@@ -2,6 +2,8 @@
 
 ## Hello! I'm a beginner Software engineer
 
+<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
+
 ### Languages an Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=tomato)
@@ -25,6 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
 </div>
