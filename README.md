@@ -9,7 +9,6 @@
 ![Css](https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3&logoColor=green)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=pin)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=fff)
-![HandleBars](https://img.shields.io/badge/-HandleBars-090909?style=for-the-badge)
 ![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&logoColor=blue)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=salmon)
 
