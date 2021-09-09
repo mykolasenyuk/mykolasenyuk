@@ -1,4 +1,5 @@
-![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)
+<div align="center">(https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)
+</div>
 
 ## Hello! I'm a beginner Software engineer
 
@@ -19,3 +20,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tecster@gmail.com)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100001829246344&sk=allactivity)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolasenyuk&show_icons=true&theme=cobalt)
+](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
