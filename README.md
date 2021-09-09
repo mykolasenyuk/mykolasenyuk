@@ -1,6 +1,6 @@
 ![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)
 
-About me
+## Hello! I'm a beginer Software engineer
 
 Languages an Tools
 
