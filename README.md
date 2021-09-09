@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
-</div>
 
 ## Hello! I'm a beginner Software engineer
 
@@ -26,3 +24,7 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
+</div>
