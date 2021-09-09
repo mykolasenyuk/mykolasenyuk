@@ -4,6 +4,8 @@
 
 <img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
 
+![](https://komarev.com/ghpvc/?username=your-github-mykolasenyuk&color=blue)
+
 ### Languages an Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=tomato)
