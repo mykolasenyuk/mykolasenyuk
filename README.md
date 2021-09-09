@@ -1,4 +1,5 @@
-<div align="center">(https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)
+<div align="center">
+<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
 </div>
 
 ## Hello! I'm a beginner Software engineer
