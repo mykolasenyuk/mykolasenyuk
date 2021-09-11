@@ -2,7 +2,7 @@
 
 ## Hello! I'm a beginner Software engineer
 
-<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
+[](https://www.youtube.com/watch?v=kYqv0LpuCyM)<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
 
 ### Languages an Tools
 
