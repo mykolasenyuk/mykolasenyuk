@@ -1,8 +1,8 @@
 <div align="center">
 
-## Hello! I am a Junior Front-End developer
+## Hello! I'm a beginner Software engineer
 
-[](https://www.youtube.com/watch?v=kYqv0LpuCyM)<img src="https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif"/>
+[![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)](https://www.youtube.com/watch?v=kYqv0LpuCyM)
 
 ### Languages an Tools
 
