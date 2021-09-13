@@ -22,7 +22,7 @@
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100001829246344&sk=allactivity)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
 
-[![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=marynazakvatska&&theme=dark&show_icons=true)
+[![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolasenyuk&&theme=dark&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
