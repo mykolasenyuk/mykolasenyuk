@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolasenyuk&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-mykolasenyuk&color=green)
