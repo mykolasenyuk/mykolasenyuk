@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello! I'm a beginner Software engineer
+## Hello! I am Junior Front-End developer
 
 [![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)](https://www.youtube.com/watch?v=kYqv0LpuCyM)
 
