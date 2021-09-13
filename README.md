@@ -1,6 +1,10 @@
 <div align="center">
 
+<<<<<<< HEAD
 ## Hello! I am Junior Front-End developer
+=======
+## Hello! 
+>>>>>>> f68c6b022b1f904a5a0c3837c9bdb410bc52e61a
 
 [![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)](https://www.youtube.com/watch?v=kYqv0LpuCyM)
 
