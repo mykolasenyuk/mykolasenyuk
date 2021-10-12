@@ -27,6 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasenyuk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-mykolasenyuk&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-mykolasenyuk&color=blue)
 
 </div>
