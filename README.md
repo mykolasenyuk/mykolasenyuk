@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello! I am Junior Front-End developer
+## Hello! I am Junior Full Stack developer
 
 [![Header](https://github.com/mykolasenyuk/mykolasenyuk/blob/main/assets/Dino_non-birthday_version.gif)](https://www.youtube.com/watch?v=kYqv0LpuCyM)
 
