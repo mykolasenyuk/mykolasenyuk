@@ -1,12 +1,12 @@
 <div align="center">
 
-## Hello! I'm from Ukraine and I'm Junior Full Stack developer
+## Hello! I'm from Ukraine  and I'm Junior Full Stack developer
 
 [![Header](https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif)](https://www.youtube.com/watch?v=kYqv0LpuCyM)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=tomato)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
@@ -23,14 +23,14 @@
 ![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=blue)
 ![MaterialUI](https://img.shields.io/badge/-MUI-090909?style=for-the-badge&logo=MUI&logoColor=blue)
 
-### Contacts
+### ☎️ Contacts
 
 [![linkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mykola-senyuk-2112811b3/)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tecster@gmail.com)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100001829246344&sk=allactivity)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Mykola's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=mykolasenyuk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
