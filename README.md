@@ -6,7 +6,7 @@
 
 ---
 
-### Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=tomato)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
