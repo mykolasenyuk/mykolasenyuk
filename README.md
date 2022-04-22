@@ -18,7 +18,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=salmon)
 ![Npm](https://img.shields.io/badge/-Npm-090909?style=for-the-badge&logo=Npm&logoColor=salmon)
 ![MongoDB](https://img.shields.io/badge/-mongoDB-090909?style=for-the-badge&logo=Mongodb&logoColor=green)
-![Mongoose](https://img.shields.io/badge/-Mongoose-090909?style=for-the-badge&logo=Mongoose&logoColor=green)
+![Mongoose](https://img.shields.io/badge/-Mongoose-090909?style=for-the-badge&logo=mongoose&logoColor=green)
 ![ExpressJs](https://img.shields.io/badge/-Express.Js-090909?style=for-the-badge&logo=Express&logoColor=green)
 ![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=blue)
 ![MaterialUI](https://img.shields.io/badge/-MUI-090909?style=for-the-badge&logo=MUI&logoColor=blue)
@@ -29,6 +29,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tecster@gmail.com)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100001829246344&sk=allactivity)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
+ [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
 
 ### 🔥 My Stats :
 
