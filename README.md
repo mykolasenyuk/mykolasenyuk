@@ -10,12 +10,18 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=tomato)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=grren)
 ![Css](https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3&logoColor=green)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=pin)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=fff)
 ![react](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react&logoColor=blue)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=salmon)
 ![Npm](https://img.shields.io/badge/-Npm-090909?style=for-the-badge&logo=Npm&logoColor=salmon)
+![MongoDB](https://img.shields.io/badge/-mongoDB-090909?style=for-the-badge&logo=Mongodb&logoColor=green)
+![Mongoose](https://img.shields.io/badge/-Mongoose-090909?style=for-the-badge&logo=Mongoose&logoColor=green)
+![ExpressJs](https://img.shields.io/badge/-Express.Js-090909?style=for-the-badge&logo=Express&logoColor=green)
+![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=blue)
+![MaterialUI](https://img.shields.io/badge/-MUI-090909?style=for-the-badge&logo=MUI&logoColor=blue)
 
 ### Contacts
 
@@ -26,7 +32,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mykolasenyuk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Mykola's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=mykolasenyuk&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolasenyuk&theme=dark&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
