@@ -29,7 +29,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tecster@gmail.com)
 [![facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100001829246344&sk=allactivity)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
- [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=green)](https://api.whatsapp.com/send?phone=+447570944705)
+ [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=green)](https://t.me/nikie_boy)
 
 ### 🔥 My Stats :
 
